@@ -20,15 +20,15 @@ This project is a smart and interactive **Tic-Tac-Toe game** built with Python's
 - If all squares are filled without a winner, it's a draw
 
 ## Project Structure
--Tkinter GUI with styled buttons and layout
+Tkinter GUI with styled buttons and layout
 - Minimax algorithm for unbeatable AI
-* Game logic functions:
+ Game logic functions:
 - check_winner()
 - is_draw()
 - minimax()
 - ai_move()
 - player_move()
-* UI handlers:
+UI handlers:
 - setup_start_screen()
 - setup_board()
 - disable_all_buttons()
